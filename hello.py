@@ -1,7 +1,6 @@
 
 def hello(name="Stefano"):
-    #print "hello " + name
-    pass
+    print "hello " + name
 
 if __name__ == "__main__":
-    hello("Patrick")
+    hello()
