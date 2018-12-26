@@ -1,6 +1,8 @@
 
 def hello(name="Stefano"):
-    """ description """
+    """
+    A description
+    """
     print "hello " + name
 
 if __name__ == "__main__":
